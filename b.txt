@@ -3,10 +3,11 @@ h
 e
 how aare you
 llo
+<<<<<<< HEAD
 
 
 hlelk
 bdg
 vxah
 dh
-=======
+
